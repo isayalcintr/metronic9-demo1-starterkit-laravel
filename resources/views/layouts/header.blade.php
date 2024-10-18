@@ -93,7 +93,6 @@
                             Mark all as read
                         </button>
                     </div>
-
 				</div>
 			</div>
 			<div class="menu" data-menu="true">
